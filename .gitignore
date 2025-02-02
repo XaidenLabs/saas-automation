@@ -29,6 +29,8 @@ yarn-error.log*
 .env
 .env*.local
 
+.history
+
 # vercel
 .vercel
 
@@ -37,3 +39,5 @@ yarn-error.log*
 next-env.d.ts
 
 certificates
+temp_auto_push.bat
+temp_interactive_push.bat
